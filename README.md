@@ -12,4 +12,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) or https://dingo42.github.io/Task/ with your browser to see the result
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
