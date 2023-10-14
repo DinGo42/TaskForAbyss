@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export"
+    "deploy": "gh-pages -d out"
   },
+  "homepage": "https://DinGo42.github.io/TaskForAbyss",
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
